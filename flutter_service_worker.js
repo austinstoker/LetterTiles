@@ -29,12 +29,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "e4cf1076b982381b5f792d09a9c5bd17",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
-"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
-"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
-"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
 "icons/android-icon-144x144.png": "dbc40df879e15ab362924f1aafb02d45",
-"index.html": "1f2e01a462c7b563e4b3b1e2647d5bfb",
+"index.html": "be2bfd13967d2b04472fcbc3bd108942",
  
 "main.dart.js": "379bee4d7f670cbd352d9d6bc59195e8",
 "manifest.json": "2ebf79023cee92a5c824a88178cbe9a1",

@@ -33715,7 +33715,8 @@ $S:9}
 A.rn.prototype={
 aE(){return new A.GH(B.n)}}
 A.GH.prototype={
-G0(){this.ay(new A.a15(this))},
+G0(){document.webkitExitFullscreen()
+this.ay(new A.a15(this))},
 O(a,b){var s=this,r=null,q=u.p,p=A.fR(r,r,r,B.ty,r,r,r,r),o=A.fR(r,r,r,B.tw,r,r,r,r),n=t.p,m=A.yK(A.a([new A.db(B.xA,A.a6P(A.a([new A.eJ(1,r),new A.jn("assets/Level_Buttons/level_k_btn.png","Level-K",new A.a0V(b),r),new A.eJ(3,r),new A.jn("assets/Level_Buttons/level_1_btn.png","Level-1",new A.a0W(b),r),new A.eJ(3,r),new A.jn("assets/Level_Buttons/level_2_btn.png","Level-2",new A.a0X(b),r),new A.eJ(3,r),new A.jn("assets/Level_Buttons/PracticeA-Z.png","a-z",new A.a0Y(b),r),new A.eJ(1,r)],n),B.aO,B.Br,B.df),r)],n),B.aO,B.Bp),l=A.Tk(r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.t,r,r,r,r)
 l=A.a([p,o,m,A.ij(r,A.a6H(A.i_("assets/Level_Buttons/GettingStarted.png",B.cy,110,r,110),new A.a0Z(s),l),r,r,r,30,0,r)],n)
 l.push(A.ij(r,A.mH(B.i,new A.db(B.aQ,A.i_(q,r,r,r,r),r),B.i,B.i,"Expand",!1,new A.a1_()),r,r,10,r,10,r))

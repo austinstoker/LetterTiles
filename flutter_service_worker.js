@@ -32,7 +32,7 @@ const RESOURCES = {
 "assets/NOTICES": "d9d33a0b0008219c58ac4ecffdea1aeb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "icons/android-icon-144x144.png": "dbc40df879e15ab362924f1aafb02d45",
-"index.html": "f5632d6f2e9e84528fa85cd85309046f",
+"index.html": "57153f11c6684477abb6c7185b563397",
  
 "main.dart.js": "b243101699d60adc969aad7ba74202a5",
 "manifest.json": "0582d3e81039abc45295a73912c26140",

@@ -36,9 +36,9 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "icons/android-icon-144x144.png": "dbc40df879e15ab362924f1aafb02d45",
-"index.html": "e926fd81bc5776a6b637f050012eb071",
+"index.html": "6fbfc534ad80803f7fdbfc3ad3da382e",
  
-"main.dart.js": "b5df67e004bb8fc6c509bcb6d8215e4e",
+"main.dart.js": "eb76eb46f9b667f910abc96d21cf3156",
 "manifest.json": "0582d3e81039abc45295a73912c26140",
 "version.json": "7ac24d16e38d491bec4e62c2ed9ce749"
 };

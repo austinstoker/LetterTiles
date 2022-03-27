@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "07b5e78f9f4c5c978915233f7b250e74",
+  "assets/AssetManifest.json": "4b0505ec51b08c935e5d81af449fd11a",
 "assets/assets/Branding/AndroidBG.png": "198acb353c7dcca81d3f062355933924",
 "assets/assets/Branding/AndroidFG.png": "72de41b4667fb6c42b984a55aecd3d19",
 "assets/assets/Branding/AndroidFG2.png": "14cb47e01a3f5a2210ec65e25d6885b3",
@@ -12,6 +12,8 @@ const RESOURCES = {
 "assets/assets/fonts/primer_print_bold.ttf": "a8dea059612584f3ac06cef8521f2b8d",
 "assets/assets/google_fonts/OFL.txt": "cabc2d83f0db00f1c4d8ab4f5cd8a34d",
 "assets/assets/google_fonts/Quicksand-VariableFont_wght.ttf": "51b6fe996746b9607630d2cd0f81b913",
+"assets/assets/images/grass.png": "942fd612ff3bc6907ce0167ea5a992ed",
+"assets/assets/images/sky_with_sun.png": "0b66ecca02e1745e9cf9d1875ab6e158",
 "assets/assets/Info/Flyout-About.png": "f3d74ea42c820d283f8001dab6f549f5",
 "assets/assets/Landscape_4-3/grass.png": "942fd612ff3bc6907ce0167ea5a992ed",
 "assets/assets/Landscape_4-3/MenuForeground.png": "f521b7ac365b45a5f98ccf01f7e1b8b6",
@@ -28,17 +30,22 @@ const RESOURCES = {
 "assets/assets/Level_Buttons/level_k_btn.png": "932bd357b3bda60dc672b42644e505a6",
 "assets/assets/Level_Buttons/PracticeA-Z.png": "2fa24552eff328312f227b1decbce95d",
 "assets/FontManifest.json": "34aa298fa57f91e35eeb744d0c61beee",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "02e3e82ed3055c2916861833bba6462e",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "1abb0ce93fba1c383d90114bd85ebf08",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/android-icon-144x144.png": "dbc40df879e15ab362924f1aafb02d45",
-"index.html": "2e2b860c52659d72fae94bc88cae2157",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
+"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+"index.html": "b7c74da1b8b0c765ef0e12cf0e2d0824",
  
-"main.dart.js": "ca4908d44fd7f31a3026c0db9ff67b38",
+"main.dart.js": "fba0cd0b115bd932cb2153f7aad89b9d",
 "manifest.json": "0582d3e81039abc45295a73912c26140",
 "version.json": "7ac24d16e38d491bec4e62c2ed9ce749"
 };

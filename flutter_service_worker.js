@@ -3,16 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "490685d92ef2655bde1eea82f2bedaf9",
+  "assets/AssetManifest.json": "0630bffb047115676f403fbb14d7c0d9",
 "assets/assets/Branding/AndroidBG.png": "198acb353c7dcca81d3f062355933924",
 "assets/assets/Branding/AndroidFG.png": "72de41b4667fb6c42b984a55aecd3d19",
 "assets/assets/Branding/AndroidFG2.png": "14cb47e01a3f5a2210ec65e25d6885b3",
 "assets/assets/Branding/Icon.png": "e97c7bdb5f39700efff635dc3d2d6cf2",
+"assets/assets/Branding/Icon512.png": "1d3168ce0ac50d6566e714c0283939f0",
 "assets/assets/fonts/primer_print.ttf": "f4b9a102b98c7f85fa6596b6c5609cd3",
 "assets/assets/fonts/primer_print_bold.ttf": "a8dea059612584f3ac06cef8521f2b8d",
-"assets/assets/google_fonts/OFL.txt": "cabc2d83f0db00f1c4d8ab4f5cd8a34d",
-"assets/assets/google_fonts/Quicksand-VariableFont_wght.ttf": "51b6fe996746b9607630d2cd0f81b913",
 "assets/assets/images/grass.png": "942fd612ff3bc6907ce0167ea5a992ed",
+"assets/assets/images/parchment_texture.jpg": "19af62ef66085514371c7b433398ba9c",
 "assets/assets/images/sky_with_sun.png": "0b66ecca02e1745e9cf9d1875ab6e158",
 "assets/assets/Info/Flyout-About.png": "f3d74ea42c820d283f8001dab6f549f5",
 "assets/assets/Landscape_4-3/grass.png": "942fd612ff3bc6907ce0167ea5a992ed",
@@ -29,10 +29,11 @@ const RESOURCES = {
 "assets/assets/Level_Buttons/level_2_btn.png": "d30d8c8e6b59d9a40d846e6b3f59534b",
 "assets/assets/Level_Buttons/level_k_btn.png": "932bd357b3bda60dc672b42644e505a6",
 "assets/assets/Level_Buttons/PracticeA-Z.png": "2fa24552eff328312f227b1decbce95d",
-"assets/FontManifest.json": "34aa298fa57f91e35eeb744d0c61beee",
+"assets/FontManifest.json": "4b83ac5a2f10f6efd83eaab2265025a9",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "0e0bb7ae3012cd390446737669451d54",
+"assets/NOTICES": "88a160495b3d7c9eca88489ededbe637",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -43,11 +44,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d71a53cc1c494bb5b933059777f527f5",
+"index.html": "4a7e877107bb900b26fc057fad91dd72",
  
-"main.dart.js": "f9a12b9cb2f20b971ba3162a665067a4",
-"manifest.json": "0582d3e81039abc45295a73912c26140",
-"version.json": "7ac24d16e38d491bec4e62c2ed9ce749"
+"main.dart.js": "e90b52eab7a9e209b11be21389f9c881",
+"manifest.json": "f434df8822c77e1ff24a654e13fb7788",
+"script.js": "b3d0451bfae78701a6a77ea4b04be407",
+"version.json": "c2fb7cf41f31b23dc1d2471cb34b14b2"
 };
 
 // The application shell files that are downloaded before a service worker can

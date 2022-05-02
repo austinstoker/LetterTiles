@@ -19,8 +19,6 @@
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="mobile-web-app-capable" content="yes" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png">
@@ -38,13 +36,15 @@
 
   <title>letter_tiles</title>
   <link rel="manifest" href="manifest.json">
+  <!-- This is not standard. It's for the custom install prompt -astoker -->
+  <script src="script.js" defer></script>
 </head>
 <body>
 <!-- This script installs service_worker.js to provide PWA functionality to
      application. For more information, see:
      https://developers.google.com/web/fundamentals/primers/service-workers -->
 <script>
-    var serviceWorkerVersion = '3018263857';
+    var serviceWorkerVersion = '2508681230';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {

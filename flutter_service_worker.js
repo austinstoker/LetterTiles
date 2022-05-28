@@ -43,7 +43,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "icons/Icon-144.png": "479109ecd12af9321ba08bacba3a713e",
 "icons/Icon-192.png": "8e12bc0337942af46eed69e8985bc329",
-"index.html": "079182761950b2f7fc38c729cc6cdec1",
+"index.html": "6ecdd4679992ca9eed1b67efa6eec4b3",
  
 "main.dart.js": "c4004adedca1720faef9d15abec0578c",
 "manifest.json": "593e64c30077ccb784f1b24217cefa63",

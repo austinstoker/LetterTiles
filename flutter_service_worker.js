@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "038efcc4ea82c7b8bfbb760d24d7312f",
+  "assets/AssetManifest.json": "3203b113512d2e3b18cf2232994b8ce8",
 "assets/assets/audio/afraid_v1.mp3": "c909de309b14326bc834fae97182e2aa",
 "assets/assets/audio/afraid_v2.mp3": "2d0ae55ea269bcfe431c63e3748c634f",
 "assets/assets/audio/afraid_v3.mp3": "d9740b663b21545cc10d7c674627f93a",
@@ -61,17 +61,25 @@ const RESOURCES = {
 "assets/assets/Landscape_4-3/sky_with_sun.png": "0b66ecca02e1745e9cf9d1875ab6e158",
 "assets/assets/Lesson_Icons/Back-icon-no-circle.png": "0fc659545577e8c71490a86e2791c0a4",
 "assets/assets/Lesson_Icons/Go_Back_One.png": "147a9d34289f0e6df39ebed3c6b9433c",
+"assets/assets/Lesson_Icons/sound_icon.png": "93784afcc413b985735c746fe1c787a9",
 "assets/assets/Lesson_Icons/Trash-icon-no-circle.png": "d37702223520e57d6c6d9052b8a6ea0f",
 "assets/assets/Level_Buttons/BlankCloud.png": "8e6bd3c7ab29877c4f2a9636f5f880a3",
 "assets/assets/Level_Buttons/GettingStarted.png": "a0074aa94cd3858f9db80da7c8b3bfdf",
 "assets/assets/Level_Buttons/level_1_btn.png": "5ffa05eec2f0dd4b98d58dc603eed362",
 "assets/assets/Level_Buttons/level_2_btn.png": "d30d8c8e6b59d9a40d846e6b3f59534b",
+"assets/assets/Level_Buttons/level_3_btn.png": "d959a29223a239fbec9f4e1b38d14f6e",
 "assets/assets/Level_Buttons/level_k_btn.png": "932bd357b3bda60dc672b42644e505a6",
 "assets/assets/Level_Buttons/PracticeA-Z.png": "2fa24552eff328312f227b1decbce95d",
-"assets/FontManifest.json": "4b83ac5a2f10f6efd83eaab2265025a9",
+"assets/FontManifest.json": "716aeb9a3419469e81f397f2b3616974",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "d10ebbe0cd776fbf2a4c60cc13fdfacc",
+"assets/NOTICES": "f1ba2e282dafa44ea1dd4a953ccba3ff",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/icon_decoration/assets/fonts/Roboto/Roboto-Black.ttf": "301fe70f8f0f41c236317504ec05f820",
+"assets/packages/icon_decoration/assets/fonts/Roboto/Roboto-Bold.ttf": "9ece5b48963bbc96309220952cda38aa",
+"assets/packages/icon_decoration/assets/fonts/Roboto/Roboto-Light.ttf": "6090d256d88dcd7f0244eaa4a3eafbba",
+"assets/packages/icon_decoration/assets/fonts/Roboto/Roboto-Medium.ttf": "b2d307df606f23cb14e6483039e2b7fa",
+"assets/packages/icon_decoration/assets/fonts/Roboto/Roboto-Regular.ttf": "f36638c2135b71e5a623dca52b611173",
+"assets/packages/icon_decoration/assets/fonts/Roboto/Roboto-Thin.ttf": "4f0b85f5b601a405bdc7b23aad6d2a47",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -80,13 +88,13 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-144.png": "479109ecd12af9321ba08bacba3a713e",
 "icons/Icon-192.png": "8e12bc0337942af46eed69e8985bc329",
-"index.html": "ea7b41a3ad62dfdb8e99a4fd5fb1cdd5",
+"index.html": "e89b8ffb8ec8f32256b69426b00ac24b",
  
-"main.dart.js": "9edfe96062b40397ee018479b0105cee",
+"main.dart.js": "ebc5b5ec27e3e66037451874a8f27c63",
 "manifest.json": "593e64c30077ccb784f1b24217cefa63",
 "node_modules/.cache/wrangler/pages.json": "ea987e8acc3d2534e2e32f24384c0cf0",
 "script.js": "b3d0451bfae78701a6a77ea4b04be407",
-"version.json": "57bc33a2d2456a8a28829074021619b9"
+"version.json": "93bc27a9a22eb6854dbed54c062e1438"
 };
 
 // The application shell files that are downloaded before a service worker can

@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3203b113512d2e3b18cf2232994b8ce8",
+  "assets/AssetManifest.json": "5588f15b83a5d7ffce91c250fd886e87",
 "assets/assets/audio/afraid_v1.mp3": "c909de309b14326bc834fae97182e2aa",
 "assets/assets/audio/afraid_v2.mp3": "2d0ae55ea269bcfe431c63e3748c634f",
 "assets/assets/audio/afraid_v3.mp3": "d9740b663b21545cc10d7c674627f93a",
@@ -52,6 +52,7 @@ const RESOURCES = {
 "assets/assets/images/grass.png": "942fd612ff3bc6907ce0167ea5a992ed",
 "assets/assets/images/HowToUseThumbnail.jpg": "0b771115553037e4387be50513fd8ec9",
 "assets/assets/images/parchment_texture.jpg": "19af62ef66085514371c7b433398ba9c",
+"assets/assets/images/shift_thin.png": "7c7f66986f8faa2b53ec842951958d05",
 "assets/assets/images/sky_with_sun.png": "0b66ecca02e1745e9cf9d1875ab6e158",
 "assets/assets/Info/Flyout-About.png": "f3d74ea42c820d283f8001dab6f549f5",
 "assets/assets/Landscape_4-3/grass.png": "942fd612ff3bc6907ce0167ea5a992ed",
@@ -67,7 +68,7 @@ const RESOURCES = {
 "assets/assets/Level_Buttons/GettingStarted.png": "a0074aa94cd3858f9db80da7c8b3bfdf",
 "assets/assets/Level_Buttons/level_1_btn.png": "5ffa05eec2f0dd4b98d58dc603eed362",
 "assets/assets/Level_Buttons/level_2_btn.png": "d30d8c8e6b59d9a40d846e6b3f59534b",
-"assets/assets/Level_Buttons/level_3_btn.png": "d959a29223a239fbec9f4e1b38d14f6e",
+"assets/assets/Level_Buttons/level_3_btn.png": "7229e28696daf574373ddbbb27c98399",
 "assets/assets/Level_Buttons/level_k_btn.png": "932bd357b3bda60dc672b42644e505a6",
 "assets/assets/Level_Buttons/PracticeA-Z.png": "2fa24552eff328312f227b1decbce95d",
 "assets/FontManifest.json": "716aeb9a3419469e81f397f2b3616974",
@@ -88,9 +89,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-144.png": "479109ecd12af9321ba08bacba3a713e",
 "icons/Icon-192.png": "8e12bc0337942af46eed69e8985bc329",
-"index.html": "06e01f61724b02bee715b803099ca22d",
+"index.html": "d936647b67a41407c5ec564517b71275",
  
-"main.dart.js": "fea60f5cab97ee4a72342ed1db9d33f8",
+"main.dart.js": "03282df5e8a8405b543dcfb65900cd33",
 "manifest.json": "593e64c30077ccb784f1b24217cefa63",
 "node_modules/.cache/wrangler/pages.json": "ea987e8acc3d2534e2e32f24384c0cf0",
 "script.js": "b3d0451bfae78701a6a77ea4b04be407",
